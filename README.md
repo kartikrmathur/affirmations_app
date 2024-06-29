@@ -1,4 +1,4 @@
-Affirmations App - Solution Code
+Affirmations App
 ================================
 
 Solution code for the Android Basics with Compose: Affirmations app.
